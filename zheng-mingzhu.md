@@ -11,7 +11,7 @@ Although there is no physical illness, Madama Butterfly deeply portrays psycholo
 
 I chose Madama Butterfly because it expresses emotional pain more powerfully than any medical description. Through music, we can feel the invisible illness of the heart.
 
-It helps us understand that psychological suffering can be just as real as physical illness, and that music can heal, reflect, or express what words cannot.
+It helps us understand that psychological suffering can be just as real as physical illness, and that music can heal, reflect,  or express what words cannot.
 
 # 《나비 부인》(Madama Butterfly)
 음악 제목: 〈Un bel dì vedremo〉(“어느 멋진 날 우리는 볼 거예요”)
