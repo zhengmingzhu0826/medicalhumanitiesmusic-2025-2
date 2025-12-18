@@ -75,6 +75,14 @@ If my entries don’t fully answer my HYQ question yet, that’s okay. I see thi
 
 아직 DB 글들이 HYQ 질문에 완벽한 답을 준다고는 말 못 하겠다. 그래도 이 DB는 계속 수정하고 늘릴 수 있는 공간이다. 다음 글들에서는 내가 어떻게 듣고 있는지(맥락, 거리, 무엇을 놓치지 않으려 하는지)를 더 분명히 연결해서 써보고 싶다.
 
+# Week 16 Reflection
+
+In the final week, I realized that this course does not really ask for a clear conclusion. Instead, it leaves us with the responsibility of how we continue to listen. After writing this database entry, I noticed that I no longer approach music about pain in the same way as before. Even when I do not have a complete answer, I now pause more, listen more slowly, and pay more attention to what the sound might be asking from me. In that sense, this database is not a finished result, but a record of how my listening has changed through the course.
+
+# 16주차 간단한 마무리
+
+마지막 주차에 와서 느낀 점은, 이 수업이 명확한 ‘결론’을 요구하기보다는 이후에 내가 어떻게 계속 듣게 될지를 남겨둔다는 것이다. 이 DB 글을 쓰고 나서, 나는 고통을 담은 음악을 이전과 같은 방식으로 듣지 않게 되었다. 아직 완전한 답은 없지만, 이제는 조금 더 멈춰서 듣고, 소리가 나에게 무엇을 요구하는지 생각하게 되었다. 그래서 이 데이터베이스는 완성된 결과라기보다, 이 수업을 통해 나의 듣기 방식이 어떻게 변했는지를 보여주는 기록이라고 생각한다.
+
 # Funeral Song: That’s Okay – D.O.
 
 I chose [“That’s Okay”](https://youtu.be/j2aQ_NqeTNw?si=SWLBV9zRNY_sR65M)because the song feels gentle and comforting.This song is a K-pop track released in 2019. Its message is about accepting sadness instead of hiding it, and letting emotions move naturally. I want the people at my funeral to feel peaceful rather than overwhelmed by grief.
